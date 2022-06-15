@@ -29,10 +29,10 @@ public class App
     	System.out.println("Time Elapsed In MilliSeconds: " + timeElapsed);
     	
     	if (timeElapsed < 8000) {
-    		System.out.println("Passed");
+    		System.out.println("PASSED");
     	}
     	else {
-    		System.out.println("Failed");
+    		System.out.println("FAILED");
     	}
     	
     	
